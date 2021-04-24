@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "message": "PUPU",
+      "attention": false,
+      "tech": " LUKKHA MALIK",
+      "date": "2021-04-24T15:32:09.605Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
